@@ -231,7 +231,7 @@
 #u15 {
   position:absolute;
   left:111px;
-  top:483px;
+  top:469px;
   width:140px;
   height:40px;
   font-size:28px;
@@ -242,6 +242,13 @@
   top:4px;
   width:136px;
   word-wrap:break-word;
+}
+#u15_ref {
+  position:absolute;
+  left:243px;
+  top:499px;
+  width:1px;
+  height:1px;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
