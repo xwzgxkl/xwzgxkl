@@ -44,3 +44,131 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+  width:320px;
+}
+#u0_div.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:102px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1.a {
+  width:316px;
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:570px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.b {
+  width:570px;
+}
+#u0_div.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:570px;
+  height:102px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1.b {
+  width:566px;
+}
+body.c {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:768px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.c {
+  width:768px;
+}
+#u0_div.c {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:768px;
+  height:102px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1.c {
+  width:764px;
+}
+body.d {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1025px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.d {
+  width:1025px;
+}
+#u0_div.d {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1025px;
+  height:102px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1.d {
+  width:1021px;
+}
