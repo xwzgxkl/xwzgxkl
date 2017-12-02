@@ -9,7 +9,12 @@
 }
 .box_1 {
 }
-.image {
+.ellipse {
+}
+._图片 {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -46,10 +51,20 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._自由编辑 {
+}
+.connector {
+}
+.icon {
+}
+.flow_shape {
 }
